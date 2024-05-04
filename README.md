@@ -1,5 +1,5 @@
 Vitor Daniel Benedito Santo 🖖
 
-Programador .NET com C#, em processo de aprendizado com o Angular.
+Programador com conhecimentos em .NET, Javascript (Angular, NestJS, AdonisJS) e bancos de dados relacionais (Postgres, MySQL, SQLServer)
 
 Sempre evoluindo! 🤘💪
